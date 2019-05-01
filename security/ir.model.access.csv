@@ -1,0 +1,27 @@
+id,name,model_id/id,group_id/id,perm_read,perm_write,perm_create,perm_unlink
+activities_manager,activities manager,model_tadamun_project_activities,group_manager,1,1,1,1
+allocation_manager,allocation manager,model_tadamun_project_allocation,group_manager,1,1,1,1
+beneficieries_manager,beneficieries manager,model_tadamun_project_beneficieries,group_manager,1,1,1,1
+beneficierytype_manager,beneficierytype manager,model_tadamun_project_beneficierytype,group_manager,1,1,1,1
+cluster_manager,cluster manager,model_tadamun_project_cluster,group_manager,1,1,1,1
+clusterobjectives_manager,clusterobjectives manager,model_tadamun_project_clusterobjectives,group_manager,1,1,1,1
+contacts_manager,contacts manager,model_tadamun_project_contacts,group_manager,1,1,1,1
+educationactivities_manager,educationactivities manager,model_tadamun_project_educationactivities,group_manager,1,1,1,1
+educationindicator_manager,educationindicator manager,model_tadamun_project_educationindicator,group_manager,1,1,1,1
+enviromentalmarker_manager,enviromentalmarker manager,model_tadamun_project_enviromentalmarker,group_manager,1,1,1,1
+equipment_manager,equipment manager,model_tadamun_project_equipment,group_manager,1,1,1,1
+gendermarker_manager,gendermarker manager,model_tadamun_project_gendermarker,group_manager,1,1,1,1
+generaloperating_manager,generaloperating manager,model_tadamun_project_generaloperating,group_manager,1,1,1,1
+hrpobjectives_manager,hrpobjectives manager,model_tadamun_project_hrpobjectives,group_manager,1,1,1,1
+indicators_manager,indicators manager,model_tadamun_project_indicators,group_manager,1,1,1,1
+location_manager,location manager,model_tadamun_project_location,group_manager,1,1,1,1
+ops_manager,ops manager,model_tadamun_project_ops,group_manager,1,1,1,1
+partnertype_manager,partnertype manager,model_tadamun_project_partnertype,group_manager,1,1,1,1
+protectionactivities_manager,protectionactivities manager,model_tadamun_project_protectionactivities,group_manager,1,1,1,1
+protectionindicator_manager,protectionindicator manager,model_tadamun_project_protectionindicator,group_manager,1,1,1,1
+staff_manager,staff manager,model_tadamun_project_staff,group_manager,1,1,1,1
+supplies_manager,supplies manager,model_tadamun_project_supplies,group_manager,1,1,1,1
+travel_manager,travel manager,model_tadamun_project_travel,group_manager,1,1,1,1
+wateractivities_manager,wateractivities manager,model_tadamun_project_wateractivities,group_manager,1,1,1,1
+waterindicator_manager,waterindicator manager,model_tadamun_project_waterindicator,group_manager,1,1,1,1
+project_workplan_manager,project workplan manager,model_tadamun_project_workplan,group_manager,1,1,1,1
